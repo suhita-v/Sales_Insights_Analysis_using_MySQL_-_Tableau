@@ -1,5 +1,5 @@
 # Sales Insights Data Analysis Project
-### Problem statement- To unlock sales insights that are not visible before the sales team for decision support and automate them to reduce manual time spent in data gathering.
+### Problem statement- A computer hardware business is facing challenges in dynamically changing market, their sales profits are going down. Sales director decides to invest in data analysis project and he would want a Tableau dashboard built that can give him real time sales insights to unlock the insights that are not visible before the sales team for decision support and automate them to reduce the manual time spent in data gathering.
 
 ### Data Analysis Using SQL
 
