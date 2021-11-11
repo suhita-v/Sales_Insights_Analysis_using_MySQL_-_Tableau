@@ -13,7 +13,7 @@
 
 1. Show transactions for say- Mumbai market (market code is Mark002)
 
-    `SELECT * FROM transactions where market_code='Mark001';`
+    `SELECT * FROM transactions where market_code='Mark002';`
 
 1. Show distrinct product codes that were sold in Mumbai
 
